@@ -1,7 +1,7 @@
-hola como estas?
+sebas: hola como estas?
 
-cansada
+maria: cansada
 
-que te parecio el viaje?
+sebas: que te parecio el viaje?
 
-chevere
+maria: chevere
